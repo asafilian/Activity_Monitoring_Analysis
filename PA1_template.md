@@ -93,7 +93,7 @@ In the following script, we calculate the "*mean and median of the total number 
 stepsmean <- mean(stepsday$totalSteps)
 stepsmedian <- median(stepsday$totalSteps)
 ```
-The mean and median of total number of steps taken per day are 9354.2295082 and 10395, respecitvely. The megenta and black vertical lines in the above histogram show them, respectively. 
+The mean and median of total number of steps taken per day are **9354.2295082** and **10395**, respecitvely. The megenta and black vertical lines in the above histogram show them, respectively. 
 
 ## What is the average daily activity pattern?
 The following script calculates the average number of steps, averaged across all days per interval. The result is shown in a plot.
