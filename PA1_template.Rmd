@@ -1,9 +1,26 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
+title: "Activity Monitoring Analysis"
 author: "Aliakbar Safilian"
-output: html_document
-keep_md: true
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+keep_md: yes
 ---
+## Overview
+This project makes use of data from a personal activity monitoring device. This device collects data at 5 minute intervals through out the day. The data consists of two months of data from an anonymous individual collected during the months of October and November, 2012 and include the number of steps taken in 5 minute intervals each day.
+
+The data for this assignment can be downloaded from https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip. 
+
+
+The variables included in this dataset are:
+
+- steps: Number of steps taking in a 5-minute interval  
+- date: The date on which the measurement was taken in YYYY-MM-DD format 
+- interval: Identifier for the 5-minute interval in which measurement was taken
+
+There are a total of 17,568 observations in this dataset.
+
 We need to load the following libraries: 
 ```{r libraries, message = FALSE, results = "hide"}
 library(dplyr)
@@ -33,7 +50,7 @@ intervalNA <- mean(is.na(data$interval)) *100
 ```
 So, the proportion of NA values w.r.t the whole data in **steps**, **date**, and **interval** are `r round(stepsNA)`%, `r dateNA`%, and `r intervalNA`%, respectively.
 
-## What is mean total number of steps taken per day?
+# What is mean total number of steps taken per day?
 We get "*the total number of steps taken per day*" by the following script. 
 ``` {r totalstepday}
 stepsday <- data %>% group_by(date) %>% summarize(totalSteps = sum(steps, na.rm = TRUE))
