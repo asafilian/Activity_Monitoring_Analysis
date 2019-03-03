@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  2 MAR 2019 22:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2018.1.12)  3 MAR 2019 16:30
 entering extended mode
 **./PA1_template.tex
 (PA1_template.tex
@@ -813,34 +813,34 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 No file PA1_template.aux.
 \openout1 = `PA1_template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 127.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 127.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 128.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 128.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 127.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 128.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 127.
+LaTeX Info: Redefining \microtypecontext on input line 128.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -889,7 +889,7 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 127.
+Package hyperref Info: Link coloring OFF on input line 128.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
@@ -897,9 +897,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count117
 )
-LaTeX Info: Redefining \ref on input line 127.
-LaTeX Info: Redefining \pageref on input line 127.
-LaTeX Info: Redefining \nameref on input line 127.
+LaTeX Info: Redefining \ref on input line 128.
+LaTeX Info: Redefining \pageref on input line 128.
+LaTeX Info: Redefining \nameref on input line 128.
 \@outlinefile=\write4
 \openout4 = `PA1_template.out'.
 
@@ -928,109 +928,116 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 139.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 129.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 139.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 129.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 139
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 129
 .
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 139
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 129
 .
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 139.
+(Font)              <12> on input line 129.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 139.
+(Font)              <8> on input line 129.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 139.
-LaTeX Font Info:    Try loading font information for U+msa on input line 139.
+(Font)              <6> on input line 129.
+LaTeX Font Info:    Try loading font information for U+msa on input line 129.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 139.
+LaTeX Font Info:    Try loading font information for U+msb on input line 129.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 146.
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 129.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 146--148
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 129.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 140.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 140.
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
 
  []
 
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 159.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 160.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 160.
-LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 186
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 161.
+LaTeX Font Info:    Try loading font information for TS1+lmtt on input line 187
 .
 ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ts1lmtt.fd"
 File: ts1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [1
 
 {C:/Users/aasaf/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-<PA1_template_files/figure-latex/histogram-steps-1.pdf, id=22, pagebox=cropbox,
+<PA1_template_files/figure-latex/histogram-steps-1.pdf, id=28, pagebox=cropbox,
  469.755pt x 325.215pt>
 File: PA1_template_files/figure-latex/histogram-steps-1.pdf Graphic file (type 
 pdf)
 <use PA1_template_files/figure-latex/histogram-steps-1.pdf>
 Package pdftex.def Info: PA1_template_files/figure-latex/histogram-steps-1.pdf 
- used on input line 262. on input line 262.
+ used on input line 263. on input line 263.
 Package pdftex.def Info: Requested size: 469.75386pt x 325.2142pt on input line
- 262.
+ 263.
 [2]
-<PA1_template_files/figure-latex/avg-stp-inv-1.pdf, id=28, pagebox=cropbox, 469
+<PA1_template_files/figure-latex/avg-stp-inv-1.pdf, id=34, pagebox=cropbox, 469
 .755pt x 325.215pt>
 File: PA1_template_files/figure-latex/avg-stp-inv-1.pdf Graphic file (type pdf)
 
 <use PA1_template_files/figure-latex/avg-stp-inv-1.pdf>
 Package pdftex.def Info: PA1_template_files/figure-latex/avg-stp-inv-1.pdf  use
-d on input line 291. on input line 291.
+d on input line 292. on input line 292.
 Package pdftex.def Info: Requested size: 469.75386pt x 325.2142pt on input line
- 291.
+ 292.
 [3 <./PA1_template_files/figure-latex/histogram-steps-1.pdf>] [4 <./PA1_templat
 e_files/figure-latex/avg-stp-inv-1.pdf>]
-<PA1_template_files/figure-latex/histogram-steps-updated-1.pdf, id=51, pagebox=
+<PA1_template_files/figure-latex/histogram-steps-updated-1.pdf, id=57, pagebox=
 cropbox, 469.755pt x 325.215pt>
 File: PA1_template_files/figure-latex/histogram-steps-updated-1.pdf Graphic fil
 e (type pdf)
 <use PA1_template_files/figure-latex/histogram-steps-updated-1.pdf>
 Package pdftex.def Info: PA1_template_files/figure-latex/histogram-steps-update
-d-1.pdf  used on input line 362. on input line 362.
+d-1.pdf  used on input line 363. on input line 363.
 Package pdftex.def Info: Requested size: 469.75386pt x 325.2142pt on input line
- 362.
+ 363.
 ! Missing $ inserted.
 <inserted text> 
                 $
-l.373 are now eqaul: mean == 1.0766189\times
+l.374 are now eqaul: mean == 1.0766189\times
                                              10\^{}\{4\} == median. 
 Here is how much of TeX's memory you used:
- 12841 strings out of 493312
- 186723 string characters out of 3138899
- 288540 words of memory out of 3000000
- 16174 multiletter control sequences out of 15000+200000
- 49167 words of font info for 59 fonts, out of 3000000 for 9000
+ 12911 strings out of 493312
+ 187731 string characters out of 3138899
+ 288695 words of memory out of 3000000
+ 16219 multiletter control sequences out of 15000+200000
+ 68428 words of font info for 84 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,6n,38p,377b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,7n,38p,377b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 !  ==> Fatal error occurred, no output PDF file produced!
